@@ -1,0 +1,9 @@
+.bg {
+    background: #ccc;
+}
+.bg:nth-child(2) {
+    background: #aaa;
+}
+.bg:nth-child(3) {
+    background: #888;
+}
